@@ -1,7 +1,6 @@
-# weather
+# Weather
 
-A new Flutter project.
-
+Cross-platform weather application for displaying current weather as well as for any custom location.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
